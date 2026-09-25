@@ -1,0 +1,91 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+#bosh-yul{
+    display: flex;
+    gap:20px;
+    
+}
+.links-nav{
+    display: flex;
+    gap:30px;
+}
+#a-1{
+    text-decoration: none;
+  margin-left:380px;
+}
+#a-2{
+    text-decoration: none;
+}
+.tsh-h1{
+    margin-left:20px;
+    margin-right:15px;
+}
+.mg-2{
+    width:40px;
+    margin-left:15px;
+    margin-top:10px;
+    height:40px;
+}
+.uzum-mrkt{
+    display: flex;
+}
+.h1-uzm{
+    color: blueviolet;
+    margin-left:19px;
+    margin-top:15px;
+}
+.box{
+    width: 70px;
+    height:20px;
+    background-color: gold;
+    color:#ddd;
+    font-size: 20px;
+    text-align: center;
+    margin-top:25px;
+    margin-left:15px;
+    transition: all 0.3s linear;
+}
+.box:hover{
+    background-color: blueviolet;
+}
+.search{
+    display: flex;
+    width:900px;
+    height:55px;
+    margin-top:15px;
+  
+}
+.search-input{
+    flex: 1;
+    padding: 0 20px;
+    font-size:18px;
+    border: 1px solid #ddd;
+     border-radius:10px 0 0 10px;
+     margin-left:35px;   
+     
+}
+.search-buttom{
+    width:80px;
+    background:#fff;
+    font-size: 25px;
+    border-radius: 0 10px 10px 0;
+}
+.li-savat{
+    list-style:none;
+    display: flex;
+    gap:15px;
+    margin-top:10px;
+    width:100px;
+}
+.krish-li{
+    margin-left:25px;
+}
+.img-reklama-2{
+    width:1250px;
+    margin-top:20px;
+    margin-left:50px;
+    
+}
